@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: digital-marketing-agency-backend
+
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: digital_marketing_agency
+
+server:
+  port: 8080
